@@ -1,0 +1,10 @@
+x=90
+y=56
+print(x+y)
+print(y-x)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x%y)
+print(x**2)
+print(y**2)

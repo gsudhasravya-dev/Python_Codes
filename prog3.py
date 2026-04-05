@@ -1,0 +1,9 @@
+x=3.14
+y=8.9
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x**2)
+print(y**2)
+print(x%y)
