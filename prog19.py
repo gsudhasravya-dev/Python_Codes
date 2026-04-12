@@ -1,0 +1,7 @@
+n1=int(input("enter num:"))
+n2=int(input("enter num:"))
+print(n1+n2)
+print(n1-n2)
+print(n1*n2)
+print(n1/n2)
+print(n1%n2)
