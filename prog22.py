@@ -1,0 +1,5 @@
+a=int(input("num:"))
+b=input("enter:")
+c=bool(input("enter:"))
+d=float(input("enter:"))
+print(a,b,c,d)
