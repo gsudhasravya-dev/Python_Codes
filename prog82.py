@@ -1,0 +1,6 @@
+str1=bool(input("enter :"))
+str2=bool(input("enter:"))
+print(str1 and str2)
+print(str1 or str2)
+print(not str1)
+print(not str2)
